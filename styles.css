@@ -9,7 +9,7 @@ body {
     font-size: 40px;
     color: #f03333;
     line-height: 1.2;
-    font-variant-caps: all-petite-caps;
+    text-transform: uppercase;
 }
 
 .subtitle {
@@ -17,4 +17,11 @@ body {
     color: #12ac11;
     line-height: 1,2;
     text-decoration: underline;
+}
+
+.list {
+    font-size: 20px;
+    color: #444;
+    font-style: italic;
+    list-style-type: square;
 }
