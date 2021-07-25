@@ -6,10 +6,10 @@ body {
 }
 
 .title {
+    text-transform: uppercase;
     font-size: 40px;
     color: #f03333;
     line-height: 1.2;
-    text-transform: uppercase;
 }
 
 .subtitle {
